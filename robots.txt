@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://rishoswal.github.io/sitemap.xml
