@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title:
 permalink: /
 subtitle: CS @ University of Washington. Entrepreneur. <a href='mailto:rishabh.oswal@outlook.com'>Email</a>.
 
