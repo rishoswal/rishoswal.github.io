@@ -65,61 +65,48 @@
   ],
   "certificates": [
     {
-      "name": "Supervised Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University & Coursera",
-      "url": "https://example.com",
+      "name": "Advanced Learning Algorithms",
+      "date": "2023-08-01",
+      "issuer": "Stanford & Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/verify/U7Z36K3ZRSHE",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "PyTorch: Image Segmentation",
+      "date": "2023-08-01",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/verify/GKWZA27PQ75P",
+      "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "Pandas",
+      "date": "2023-08-01",
+      "issuer": "Kaggle",
+      "url": "https://www.kaggle.com/learn/certification/rishoswal/pandas",
+      "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Supervised Machine Learning",
+      "date": "2023-07-01",
+      "issuer": "Stanford University & Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/verify/4MBC4NHGTPLF",
+      "icon": "fa-solid fa-location-dot"
     }
   ],
   "publications": [],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Programming Languages",
+      "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "Java",
+        "C++",
+        "C",
+        "JavaScript",
+        "Swift",
+        "R"
       ]
     }
   ],
