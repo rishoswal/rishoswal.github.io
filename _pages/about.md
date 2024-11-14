@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 2nd Year @ University of Washington CS. <a href='mailto:rishabh.oswal@outlook.com'>Email</a>.
+subtitle: CS @ University of Washington. <a href='mailto:rishabh.oswal@outlook.com'>Email</a>.
 
 profile:
   align: right
@@ -11,12 +11,14 @@ profile:
   more_info: >
     <p>Seattle, WA</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+Welcome to my website! I'm glad you're here.
 
+I'm an undergraduate student interested in creating 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
