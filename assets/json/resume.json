@@ -108,6 +108,39 @@
         "Swift",
         "R"
       ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "React",
+        "Node.JS",
+        "JUnit",
+        "Docker",
+        "ROS (Robot OS)",
+        "React",
+        "Flask",
+        "FastAPI"
+      ]
+    },
+    {
+      "name": "Tools & Libraries",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Azure",
+        "AWS",
+        "Git",
+        "Firebase",
+        "TensorFlow",
+        "PyTorch",
+        "OpenCV",
+        "pandas",
+        "Numpy",
+        "Matplotlib",
+        "Albumentations"
+      ]
     }
   ],
   "languages": [
@@ -124,27 +157,28 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Robot Learning (ML/AI)",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Reinforcement Learning",
+        "Imitation Learning"
       ]
+    },
+    {
+      "name": "Augmented Reality (AR/VR)",
+      "icon": "fa-solid fa-tag",
+      "keywords": []
     }
   ],
   "references": [],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Human Image Masking (Segmentation)",
+      "summary": "Learned how to create a Image Seg model with U-NET architecture and developed and implemented the model to segment and mask human presence in images. Also learned data augmentation using Albumentations for training a better model.",
+      "highlights": ["Image Segmentation", "PyTorch", "TensorFlow", "OpenCV", "Albumentations"],
+      "startDate": "2022-07-01",
+      "endDate": "",
+      "url": "https://github.com/rishoswal/Image-Segmentation-Project"
     }
   ]
 }
