@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 Welcome to my website! I'm glad you're here.
 
-I'm an undergrad at the University of Washington studying CS and potentially also Applied Math and Economics to make it a triple major! Although, I'm still explore other options such as CFRM at the moment as well. I also have a strong passion for entrepreneurship.
+I'm an undergrad at the University of Washington studying CS and potentially Applied Math and Economics to make it a triple major. I may also pivot to other options such as CFRM. I also have a strong passion for entrepreneurship.
 
 I want to be building products at the forefront of AI, but something different than the thousands of ChatGPT wrapper startups that have come up in the past few years. Currently, my focus is on using AI and AR for accessibility for vision impairments. I want to develop the next generation of AR technology for vision impairment - specifically, an all-in-one wearable that will ultimately replace the need for human VA/PAs with advanced context-aware AI assistance. 
 

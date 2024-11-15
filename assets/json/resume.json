@@ -65,35 +65,61 @@
   ],
   "certificates": [
     {
-      "name": "Advanced Learning Algorithms",
-      "date": "2023-08-01",
+      "name": "Advanced ML",
+      "date": "2023-08",
       "issuer": "Stanford & Coursera",
       "url": "https://www.coursera.org/account/accomplishments/verify/U7Z36K3ZRSHE",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "PyTorch: Image Segmentation",
-      "date": "2023-08-01",
+      "name": "Image Segmentation",
+      "date": "2023-08",
       "issuer": "Coursera",
       "url": "https://www.coursera.org/account/accomplishments/verify/GKWZA27PQ75P",
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Pandas",
-      "date": "2023-08-01",
+      "date": "2023-08",
       "issuer": "Kaggle",
       "url": "https://www.kaggle.com/learn/certification/rishoswal/pandas",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Supervised Machine Learning",
-      "date": "2023-07-01",
+      "name": "Supervised ML",
+      "date": "2023-07",
       "issuer": "Stanford University & Coursera",
       "url": "https://www.coursera.org/account/accomplishments/verify/4MBC4NHGTPLF",
       "icon": "fa-solid fa-location-dot"
     }
   ],
   "publications": [],
+  "projects": [
+    {
+      "name": "Discover",
+      "summary": "All-in-one chest x-ray analysis, diagnosis, and catheter placement web application using AI. Developed an image classification and segmentation model (over 60M param) with TensorFlow, OpenCV, and PyTorch, trained on thousands of x-rays. Front-end built with Flask, Python, HTML/CSS. Won award in CodeDay Hackathon 2023.",
+      "highlights": ["Python", "TensorFlow", "OpenCV", "Flask", "Image Segmentation", "Image Classification"],
+      "startDate": "2023-01-01",
+      "endDate": "",
+      "url": "https://codeday.sh/discover"
+    },
+    {
+      "name": "Human Image Masking (Segmentation)",
+      "summary": "Learned how to create a Image Seg model with U-NET architecture and developed and implemented the model to segment and mask human presence in images. Also learned data augmentation using Albumentations for training a better model.",
+      "highlights": ["Python", "PyTorch", "TensorFlow", "OpenCV", "Albumentations", "Image Segmentation"],
+      "startDate": "2022-07-01",
+      "endDate": "",
+      "url": "https://github.com/rishoswal/Image-Segmentation-Project"
+    },
+    {
+      "name": "Mach 5 Robotics",
+      "summary": "Collaborated with peers to write teleop & auton code for 22-23 VEX high school competition.",
+      "highlights": ["C++", "Robotics"],
+      "startDate": "2022-11-01",
+      "endDate": "2023-03-01",
+      "url": "https://github.com/rishoswal/Mach5-Robotics-22-23"
+    }
+  ],
   "skills": [
     {
       "name": "Programming Languages",
@@ -125,14 +151,21 @@
       ]
     },
     {
-      "name": "Tools & Libraries",
+      "name": "Tools",
       "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Azure",
         "AWS",
         "Git",
-        "Firebase",
+        "Firebase"
+      ]
+    },
+    {
+      "name": "Libraries",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
         "TensorFlow",
         "PyTorch",
         "OpenCV",
@@ -140,6 +173,32 @@
         "Numpy",
         "Matplotlib",
         "Albumentations"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Machine Learning (ML/AI)",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Reinforcement Learning",
+        "Imitation Learning",
+        "Generative AI"
+      ]
+    },
+    {
+      "name": "Robot Learning",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Fine Manipulation with ML",
+        "Robot Full Self Driving"
+      ]
+    },
+    {
+      "name": "Augmented Reality (AR/VR)",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Accessibility"
       ]
     }
   ],
@@ -155,30 +214,5 @@
       "icon": ""
     }
   ],
-  "interests": [
-    {
-      "name": "Robot Learning (ML/AI)",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Reinforcement Learning",
-        "Imitation Learning"
-      ]
-    },
-    {
-      "name": "Augmented Reality (AR/VR)",
-      "icon": "fa-solid fa-tag",
-      "keywords": []
-    }
-  ],
-  "references": [],
-  "projects": [
-    {
-      "name": "Human Image Masking (Segmentation)",
-      "summary": "Learned how to create a Image Seg model with U-NET architecture and developed and implemented the model to segment and mask human presence in images. Also learned data augmentation using Albumentations for training a better model.",
-      "highlights": ["Image Segmentation", "PyTorch", "TensorFlow", "OpenCV", "Albumentations"],
-      "startDate": "2022-07-01",
-      "endDate": "",
-      "url": "https://github.com/rishoswal/Image-Segmentation-Project"
-    }
-  ]
+  "references": []
 }
