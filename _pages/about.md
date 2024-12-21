@@ -22,9 +22,10 @@ I'm an undergrad at the University of Washington studying CS, Applied Math, and 
 
 My current interests/work:
 
-- Robot Learning and Autonomous Vehicles: Building robust and data-driven control algorithms (Imitation, Deep Reinforcement Learning) for robot-learning on real-world and simulated platforms (robotic arm for fine manipulation, miniature autonomous vehicle, MuJoCo simulation engine).
+Robot Learning and Autonomous Vehicles: 
+Building robust and data-driven control algorithms (````Imitation Learning````, ````Deep Reinforcement Learning````) for robot-learning on real-world and simulated platforms (robotic arm for fine manipulation, miniature autonomous vehicle, MuJoCo simulation engine).
 
-- AI & AR-Enabled Accessibility Solutions: Building all-in-one solutions for vision impairment, enabling more complex queries like: ````"Guide me through this game of poker"````, ````"Help me find my medication in the cabinet"````, ````"Monitor me and alert me as I cook my lunch for today"```` 
+AI & AR-Enabled Accessibility Solutions: Building all-in-one solutions for vision impairment, enabling more complex queries like: ````"Guide me through this game of poker"````, ````"Help me find my medication in the cabinet"````, ````"Monitor me and alert me as I cook my lunch for today"```` 
 
 <!-- I want to be building products at the forefront of AI, but something different than the thousands of ChatGPT wrapper startups that have come up in the past few years. Currently, my focus is on using AI and AR for accessibility for vision impairments. I want to develop the next generation of AR technology for vision impairment - specifically, an all-in-one wearable that will ultimately replace the need for human VA/PAs with advanced context-aware AI assistance. 
 
