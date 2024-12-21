@@ -3,7 +3,7 @@
     "name": "Rishabh Oswal",
     "label": "CS @ UW",
     "image": "",
-    "email": "rishabh.oswal@outlook.com",
+    "email": "rishabhnoswal@gmail.com",
     "phone": "+1(425)4055418",
     "url": "https://rishoswal.github.io/",
     "summary": "",
@@ -29,7 +29,7 @@
       "url": "",
       "startDate": "2024-03-01",
       "endDate": "",
-      "summary": "Worked on developing imitation learning control algorithm (CCIL) in Python and C++ that outperformed human and algorithmic baselines in both real and simulated environments by 75%. Performed robot-learning research for fine manipulation on a 6-DOF robotic arm.",
+      "summary": "Helped develop on imitation learning control algorithm (CCIL) in Python. CCIL outperformed human and top algorithmic baselines in both real and simulated environments by 75%. Performed robot-learning research for fine manipulation on 6-DOF robotic arm and miniature autonomous vehicles.",
       "highlights": ["Machine Learning", "Imitation Learning", "Robot Learning", "Python"]
     }
   ],
@@ -42,9 +42,9 @@
       "studyType": "Bachelors of Arts, Bachelors of Science",
       "startDate": "2023-09-01",
       "endDate": "",
-      "score": "3.95/4.00",
+      "score": "3.93/4.00",
       "courses": [
-        "GPA: 3.95/4.00", 
+        "GPA: 3.93/4.00", 
         "MATH 208 - Linear Algebra",
         "MATH 12X - Calculus I-III",
         "CSE 351 - Hardware/Software Interface",
