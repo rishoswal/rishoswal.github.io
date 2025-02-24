@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Rishabh Oswal",
-    "label": "CS @ UW",
+    "label": "",
     "image": "",
     "email": "rishabhnoswal@gmail.com",
     "phone": "+1(425)4055418",
@@ -24,13 +24,31 @@
   },
   "work": [
     {
+      "name": "Aurora Innovation",
+      "position": "Incoming SDE Intern",
+      "url": "",
+      "startDate": "2025-06-01",
+      "endDate": "",
+      "summary": "Aurora makes self-driving vehicle systems, specifically for frieght. Autonomy Simulation Team.",
+      "highlights": []
+    },
+    {
+      "name": "Allen Institute for AI (Ai2)",
+      "position": "Student Researcher (PRIOR Team)",
+      "url": "",
+      "startDate": "2025-01-01",
+      "endDate": "",
+      "summary": "Built a bimanual system of FR3 robotic arms. Developed keyboard-based teleoperation software using MoveIt motion planning & inverse kinematics in Python.",
+      "highlights": ["Robot Learning", "Foundation Models"]
+    },
+    {
       "name": "Personal Robotics Lab @ UW",
       "position": "Undergraduate ML Researcher",
       "url": "",
       "startDate": "2024-03-01",
-      "endDate": "",
-      "summary": "Helped develop on imitation learning control algorithm (CCIL) in Python. CCIL outperformed human and top algorithmic baselines in both real and simulated environments by 75%. Performed robot-learning research for fine manipulation on 6-DOF robotic arm and miniature autonomous vehicles.",
-      "highlights": ["Machine Learning", "Imitation Learning", "Robot Learning", "Python"]
+      "endDate": "2024-09-01",
+      "summary": "Tested imitation learning control algorithm (CCIL) on real 6-DOF robotic arm & simulation (F1Tenth, Drone, Mujoco, Metaworld). CCIL outperformed human and top algorithmic baselines in both real and simulated environments by 75%. Performed robot-learning research for fine manipulation on 6-DOF robotic arm and miniature autonomous vehicles.",
+      "highlights": ["Machine Learning", "Imitation Learning", "Robot Learning"]
     }
   ],
   "education": [
@@ -42,21 +60,27 @@
       "studyType": "Bachelors of Arts, Bachelors of Science",
       "startDate": "2023-09-01",
       "endDate": "",
-      "score": "3.93/4.00",
+      "score": "3.91/4.00",
       "courses": [
-        "GPA: 3.93/4.00", 
-        "MATH 208 - Linear Algebra",
-        "MATH 12X - Calculus I-III",
+        "GPA: 3.91/4.00", 
+        "CSE 332 - Data Structures and Parallelism",
+        "CSE 333 - Systems Programming",
+        "CSE 589 - Software Entrepreneurship (Grad-level)",
         "CSE 351 - Hardware/Software Interface",
         "CSE 311 - Foundations of Computing I",
-        "CSE 312 - Foundations of Computing II", 
-        "ECON 20X - Macro/Micro Economics"
+        "CSE 312 - Foundations of Computing II",
+        "MATH 208 - Linear Algebra",
+        "MATH 12X - Calculus I-III",
+        "STAT 311 - Elements of Statistical Methods",
+        "AMATH 301 - Intro to Scientific Computing",
+        "ECON 20X - Macro/Micro Economics",
+        "CHEM 1X2 - General Chemistry I-III"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Dean's List",
+      "title": "5x Dean's List",
       "date": "2023-09-01",
       "awarder": "University of Washington",
       "url": "",
@@ -95,6 +119,14 @@
   ],
   "publications": [],
   "projects": [
+    {
+      "name": "Bimanual Teleop Software",
+      "summary": "Inverse kinematics-based teleoperation software for an Meta Quest 2 VR controller for a bimanual FRANKA arm system.",
+      "highlights": ["Python", "Robotics"],
+      "startDate": "2025-01-01",
+      "endDate": "",
+      "url": "https://github.com/rishoswal"
+    },
     {
       "name": "Discover",
       "summary": "All-in-one chest x-ray analysis, diagnosis, and catheter placement web application using AI. Developed an image classification and segmentation model (over 60M param) with TensorFlow, OpenCV, and PyTorch, trained on thousands of x-rays. Front-end built with Flask, Python, HTML/CSS. Won award in CodeDay Hackathon 2023.",

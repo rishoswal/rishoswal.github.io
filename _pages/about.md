@@ -18,15 +18,18 @@ social: true # includes social icons at the bottom of the page
 
 Welcome to my website! I'm glad you're here.
 
-I'm an undergrad at the University of Washington studying CS, Applied Math, and Economics. I have a strong passion for entrepreneurship.
+I'm an undergraduate at the <a href='https://cs.washington.edu'>Allen School</a> at <a href='https://washington.edu'>University of Washington, Seattle</a>.
 
-My current interests/work:
+At the moment, my focus has been on robot learning and VLA policy training on real (bimanual system of FR3 robotic arms) and simulated platforms, which I research at the <a href='https://www.allenai.org'>Allen Institute for AI</a>. 
 
-Robot Learning and Autonomous Vehicles: 
-Building robust and data-driven control algorithms (````Imitation Learning````, ````Deep Reinforcement Learning````) for robot-learning on real-world and simulated platforms (robotic arm for fine manipulation, miniature autonomous vehicle, MuJoCo simulation engine).
+Soon, I'll be interning at <a href='https://aurora.tech'>Aurora</a> with the Autonomy Simulation team! I'm super excited.
 
-AI & AR-Enabled Accessibility Solutions: 
-Building all-in-one solutions for vision impairment, enabling more complex queries like: ````"Guide me through this game of poker"````, ````"Help me find my medication in the cabinet"````, ````"Monitor me and alert me as I cook my lunch for today"```` 
+Previously, I researched at the UW Personal Robotics Lab, where I tested imitation learning policies in simulation engines. 
+
+More info about entrepreneurial ventures also coming very soon.
+
+<!-- AI & AR-Enabled Accessibility Solutions: 
+Building all-in-one solutions for vision impairment, enabling more complex queries like: ````"Guide me through this game of poker"````, ````"Help me find my medication in the cabinet"````, ````"Monitor me and alert me as I cook my lunch for today"````  -->
 
 <!-- I want to be building products at the forefront of AI, but something different than the thousands of ChatGPT wrapper startups that have come up in the past few years. Currently, my focus is on using AI and AR for accessibility for vision impairments. I want to develop the next generation of AR technology for vision impairment - specifically, an all-in-one wearable that will ultimately replace the need for human VA/PAs with advanced context-aware AI assistance. 
 
