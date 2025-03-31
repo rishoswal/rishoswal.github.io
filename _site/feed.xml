@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://0.0.0.0:8080/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:8080/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-03-31T17:22:29+00:00</updated><id>http://0.0.0.0:8080/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://0.0.0.0:8080/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:8080/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-03-31T18:25:14+00:00</updated><id>http://0.0.0.0:8080/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 </subtitle><entry><title type="html">takeaways from Vinod Khosla</title><link href="http://0.0.0.0:8080/blog/2025/vinod-khosla-talk/" rel="alternate" type="text/html" title="takeaways from Vinod Khosla" /><published>2025-03-31T09:52:01+00:00</published><updated>2025-03-31T09:52:01+00:00</updated><id>http://0.0.0.0:8080/blog/2025/vinod-khosla-talk</id><content type="html" xml:base="http://0.0.0.0:8080/blog/2025/vinod-khosla-talk/"><![CDATA[<p>Vinod Khosla came to town and had a fireside chat at the AI House. Here are my takeaways:</p>
 
 <h3 id="1-constantly-examine-your-assumptions-and-surface-the-risks-and-build-a-team-that-does-the-same">1. Constantly examine your assumptions and surface the risks (and build a team that does the same)</h3>
@@ -19,4 +19,74 @@
 <p>This principle is straightforward: hierarchical authority structures stifle creativity and risk-taking. The most innovative organizations foster cultures where everyone feels empowered to ask seemingly naive questions and challenge established thinking. Stupid questions often lead to breakthrough insights precisely because they aren’t constrained by conventional wisdom.</p>
 
 <h3 id="5-consumers-will-think-incrementally--companies-that-redefine-markets-hack-around-this-give-the-consumers-what-they-think-they-need-but-ultimately-move-towards-what-you-think-they-need">5. Consumers will think incrementally- companies that redefine markets hack around this: Give the consumers what <strong>they think they need</strong>, but ultimately move towards what <strong>you think they need</strong>.</h3>
-<p>Many years ago, Netflix offered both DVDs and streaming services. Reed Hastings knew streaming was the future, and he so separated the unified subscription into two, but immediately reverted the decision. Why? Customers hated managing both subscriptions, and they lost trust in Netflix. The realization was this- instead of forcing the future, you need to guide customers there gradually by giving them what they want but moving towards what you think is the future. <strong>Evolution beats revolution.</strong></p>]]></content><author><name></name></author><category term="tech-thoughts" /><category term="entrepreneurship" /><summary type="html"><![CDATA[from his fireside chat at the AI House Launch Party]]></summary></entry></feed>
+<p>Many years ago, Netflix offered both DVDs and streaming services. Reed Hastings knew streaming was the future, and he so separated the unified subscription into two, but immediately reverted the decision. Why? Customers hated managing both subscriptions, and they lost trust in Netflix. The realization was this- instead of forcing the future, you need to guide customers there gradually by giving them what they want but moving towards what you think is the future. <strong>Evolution beats revolution.</strong></p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      <source class="responsive-img-srcset" srcset="/assets/img/IMG_0727-480.webp 480w,/assets/img/IMG_0727-800.webp 800w,/assets/img/IMG_0727-1400.webp 1400w," type="image/webp" sizes="95vw" />
+    
+    <img src="/assets/img/IMG_0727.jpeg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  </picture>
+
+  
+</figure>
+
+        <div class="caption">
+        Me at the AI House Launch Party!
+        </div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      <source class="responsive-img-srcset" srcset="/assets/img/IMG_0722-480.webp 480w,/assets/img/IMG_0722-800.webp 800w,/assets/img/IMG_0722-1400.webp 1400w," type="image/webp" sizes="95vw" />
+    
+    <img src="/assets/img/IMG_0722.jpeg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  </picture>
+
+  
+</figure>
+
+        
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      <source class="responsive-img-srcset" srcset="/assets/img/IMG_0733-480.webp 480w,/assets/img/IMG_0733-800.webp 800w,/assets/img/IMG_0733-1400.webp 1400w," type="image/webp" sizes="95vw" />
+    
+    <img src="/assets/img/IMG_0733.jpeg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  </picture>
+
+  
+</figure>
+
+    </div>
+</div>]]></content><author><name></name></author><category term="tech-thoughts" /><category term="entrepreneurship" /><summary type="html"><![CDATA[from his fireside chat at the AI House Launch Party]]></summary></entry></feed>

@@ -26,3 +26,16 @@ This principle is straightforward: hierarchical authority structures stifle crea
 
 ### 5. Consumers will think incrementally- companies that redefine markets hack around this: Give the consumers what **they think they need**, but ultimately move towards what **you think they need**.
 Many years ago, Netflix offered both DVDs and streaming services. Reed Hastings knew streaming was the future, and he so separated the unified subscription into two, but immediately reverted the decision. Why? Customers hated managing both subscriptions, and they lost trust in Netflix. The realization was this- instead of forcing the future, you need to guide customers there gradually by giving them what they want but moving towards what you think is the future. **Evolution beats revolution.**
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/IMG_0727.jpeg" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+        Me at the AI House Launch Party!
+        </div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/IMG_0722.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/IMG_0733.jpeg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
