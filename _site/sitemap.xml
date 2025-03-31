@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://0.0.0.0:8080/blog/2024/my-thoughts-on-humane-pin/</loc>
-<lastmod>2024-10-15T22:01:01+00:00</lastmod>
+<loc>http://0.0.0.0:8080/blog/2025/vinod-khosla-talk/</loc>
+<lastmod>2025-03-31T09:52:01+00:00</lastmod>
 </url>
 <url>
 <loc>http://0.0.0.0:8080/</loc>
@@ -11,13 +11,13 @@
 <loc>http://0.0.0.0:8080/cv/</loc>
 </url>
 <url>
-<loc>http://0.0.0.0:8080/blog/tag/accessibility/</loc>
+<loc>http://0.0.0.0:8080/blog/tag/entrepreneurship/</loc>
 </url>
 <url>
 <loc>http://0.0.0.0:8080/blog/category/tech-thoughts/</loc>
 </url>
 <url>
-<loc>http://0.0.0.0:8080/blog/2024/</loc>
+<loc>http://0.0.0.0:8080/blog/2025/</loc>
 </url>
 <url>
 <loc>http://0.0.0.0:8080/blog/</loc>
